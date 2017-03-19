@@ -3,4 +3,4 @@
 
 ![](/images/ionic2-HybridApp.jpg)
 
-ที่มา : [](http://blog.prscreative.com/what-is-ionic/)
+[ที่มา](http://blog.prscreative.com/what-is-ionic/)
