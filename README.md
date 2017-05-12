@@ -1,4 +1,4 @@
-# Ionic3-Anamai-Training
+# Ionic3-DOH-Training
 อบรมการใช้งาน Ionic3 Mobile Application
 
 ![](/images/ionic2-HybridApp.jpg)
